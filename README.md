@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hellaur 👋
 
-- 🔭 I’m currently working on writing a Discord bot in Python
-- 🌱 I’m currently learning React and MySQL
-- 💬 Ask me about anything, worst comes to worst I will make something up!
 - 📫 How to reach me: Discord: upc#5483 Email: upcnationstates@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A fun fact about me is I've never been relaxed, ever. 
@@ -12,6 +9,9 @@
 
 Here are some ideas to get you started:
 
+- 🔭 I’m currently working on writing a Discord bot in Python
+- 🌱 I’m currently learning React and MySQL
+- 💬 Ask me about anything, worst comes to worst I will make something up!
 - 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
 -->
