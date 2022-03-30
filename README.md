@@ -3,7 +3,7 @@
 - 📫 How to reach me: Discord: upc#5483 Email: upcnationstates@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A fun fact about me is I've never been relaxed, ever. 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=upc-ns)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **UPC-NS/UPC-NS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
